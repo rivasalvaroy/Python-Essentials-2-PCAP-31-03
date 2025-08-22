@@ -4,10 +4,7 @@ Examples and exercises from the Python Essentials 2 course (Edube Interactive/ O
 
 ## <a href="https://edube.org/study/pe2">OPENEDG</a> (About this course)
 
-<a href="https://edube.org/study/pe2"><img src="https://edube.org/uploads/media/default/0001/03/227efa7559ff5d97bc79c84aa0c8430de59c6e15.png" alt="Python Essentials 2"></a>
-
-<p>This course is the second in a 2-course series that will prepare you for the PCAP: Certified Associate Python Programmer certification exam at a Pearson VUE Test Center.
-</p>
+This course is the second in a 2-course series that will prepare you for the [PCAP: Certified Associate Python Programmer](https://edube.org/study/pe2) certification exam at a Pearson VUE Test Center.
 
 The course picks up where Python Essentials - Part 1 leaves off. Its main goal is to teach you the skills related to the more advanced aspects of Python programming, including modules, packages, exceptions, file processing, as well as with general coding techniques and object-oriented programming (OOP).
 
