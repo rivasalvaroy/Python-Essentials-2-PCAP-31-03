@@ -1,6 +1,6 @@
 # Python-Essentials-2-PCAP-31-03
 
-Examples and exercises from the Python Essentials 2 course (Edube Interactive/ OpenEDG Python Institute)
+Examples and Exercises from the Python Essentials 2 Course (EDUBE Interactive / OpenEDG Python Institute)
 
 ## <a href="https://edube.org/study/pe2">OPENEDG</a> (About this course)
 
